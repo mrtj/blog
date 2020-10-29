@@ -25,7 +25,7 @@ Second, in Italy the [healthcare system is fragmented](https://en.wikipedia.org/
 
 And at last, there might be **political reasons** not to change an established, nevertheless wrong data collection methodology. [China changed several times](https://edition.cnn.com/2020/02/21/health/coronavirus-reported-cases-covid-19-change-intl/index.html) its testing policy and on 12th February one such change resulted in a sudden jump in the positive cases. Almost all published diagrams showing the Chinese COVID-19 cases note that the cause of this jump is a change in the methodology, but not all people read the small letter annotations. There is a real risk that such a methodology change can cause confusion or even scare in the public.
 
-![China changed case definition on 12th February](/blog/assets/2020-04-23-covid-mortality/china_case_definition.png)
+![China changed case definition on 12th February]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/china_case_definition.png)
 
 
 ### Testing only people reaching the hospital
