@@ -131,6 +131,7 @@ This table shows:
 | Friuli Venezia Giulia |                0 |      1215220 |         0        |        0        |     0% |
 | Trentino-Alto Adige   |                0 |      1072276 |         0        |        0        |     0% |
 | Valle d'Aosta         |                0 |       125666 |         0        |        0        |     0% |
+{:.blog-table}
 
 We will consider only the regions that have at mortality data available at least for the 30% of the population. These regions are written with  italic font in the table above.
   
@@ -158,6 +159,7 @@ In the following table we list the estimated excess mortalities on a region leve
 | Piemonte       |               4012 |                       1128 |   356% | 2020&#8209;03&#8209;25 |       <img src="{{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-piemonte.png" alt="Excess mortality and official COVID-19 deaths in Piemonte" height="50px"/>       |
 | Liguria        |               1093 |                        542 |   202% | 2020&#8209;03&#8209;21 |        <img src="{{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-liguria.png" alt="Excess mortality and official COVID-19 deaths in Liguria" height="50px"/>        |
 | Marche         |               1657 |                        574 |   289% | 2020&#8209;03&#8209;21 |         <img src="{{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-marche.png" alt="Excess mortality and official COVID-19 deaths in Marche" height="50px"/>         |
+{:.blog-table}
 
 You can also download the bigger figures: [Lombardia]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-lombardia.png), [Veneto]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-veneto.png), [Emilia-Romagna]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-emilia-romagna.png), [Piemonte]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-piemonte.png), [Liguria]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-liguria.png), [Marche]({{ site.baseurl }}/assets/2020-04-23-covid-mortality/mortality-covid-marche.png).
 
